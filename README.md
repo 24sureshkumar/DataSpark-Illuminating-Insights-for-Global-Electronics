@@ -1,16 +1,21 @@
 # DataSpark-Illuminating-Insights-for-Global-Electronics
 This project aims to analyze the dataset in order to gain insights that will contribute to the growth of the business.
 --------------------------------------------------We have five dataset ------------------------------------------------
+
 1. Customer dataset.
 2. Sales dataset.
 3. Product dataset.
 4. store dataset.
 5. Exchange currency dataset.
+   
 -------------------------------------------------------Tools used-------------------------------------------------------
+
 1. Python.
 2. Sql.
 3. Power BI.
+4. 
 -----------------------------------------------------Business use case---------------------------------------------------
+
 By analyzing Global Electronics' customer, product, sales, and store data, we aim to identify key insights that will enhance
 marketing strategies, optimize inventory management, and improve sales forecasting. This will help tailor marketing campaigns,
 develop better products, plan effective promotions, and decide on store expansions and optimizations. Additionally, understanding
@@ -18,6 +23,7 @@ the impact of currency exchange rates on sales will allow for better internation
 help Global Electronics increase customer satisfaction and drive business growth.
 
 -----------------------------------------------------------Approach--------------------------------------------------------
+
 **Data Cleaning and Preparation**
   --- Check for missing values and handle them appropriately.
   --- Convert data types where necessary (e.g., dates, numerical values).
@@ -28,6 +34,7 @@ help Global Electronics increase customer satisfaction and drive business growth
   --- Connect SQL to Power BI/Tableau, import the data, and create interactive dashboards.
 **Develop 10 SQL Queries**
   --- Formulate and execute 10 SQL queries to extract key insights from the data. These queries should address important business questions and support the analysis steps below.
+  
 --------------------------------------------------------Analysis Steps-------------------------------------------------------
 
 **Customer Analysis**
@@ -46,6 +53,8 @@ help Global Electronics increase customer satisfaction and drive business growth
 **Store Analysis**
 1. Store Performance: Evaluate store performance based on sales, size (square meters), and operational data (open date).
 2. Geographical Analysis: Analyze sales by store location to identify high-performing regions.
+
 ------------------------------------------------------------Result----------------------------------------------------------------
+
    Finally, I created the PowerPoint presentation for this analysis and included visualizations to capture key insights and recommendations, which are crucial for business growth.
 
