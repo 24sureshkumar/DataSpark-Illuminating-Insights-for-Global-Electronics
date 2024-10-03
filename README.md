@@ -13,7 +13,7 @@ This project aims to analyze the dataset in order to gain insights that will con
 1. Python.
 2. Sql.
 3. Power BI.
-4. 
+
 -----------------------------------------------------Business use case---------------------------------------------------
 
 By analyzing Global Electronics' customer, product, sales, and store data, we aim to identify key insights that will enhance
@@ -24,15 +24,15 @@ help Global Electronics increase customer satisfaction and drive business growth
 
 -----------------------------------------------------------Approach--------------------------------------------------------
 
-**Data Cleaning and Preparation**:
+
   1. Check for missing values and handle them appropriately.
   2. Convert data types where necessary (e.g., dates, numerical values).
   3. Merge datasets where necessary for analysis (e.g., linking sales data with product and customer data).
-**Load Data**:
+
   1. Insert the preprocessed data into an SQL database by creating relevant tables for each data source and using SQL INSERT statements to load the data.
-**Power BI Visualization**:
+
   1. Connect SQL to Power BI/Tableau, import the data, and create interactive dashboards.
-**Develop 10 SQL Queries**:
+
   1. Formulate and execute 10 SQL queries to extract key insights from the data. These queries should address important business questions and support the analysis steps below.
   
 --------------------------------------------------------Analysis Steps-------------------------------------------------------
